@@ -1,0 +1,10 @@
+{
+  "name": "Learning App",
+  "short_name": "LearnApp",
+  "start_url": "/public_html/index.php",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#009688",
+  "icons": []
+}
+
